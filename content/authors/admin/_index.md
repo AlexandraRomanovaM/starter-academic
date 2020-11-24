@@ -1,37 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexandra Romanova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: RUDN master's student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: RUDN
+  url: "http://www.rudn.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include probability theory, mathematical statistics, financial mathematics, analytics.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Programming
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PSc in Applied mathematics and informatics
+    institution: RUDN University
+    year: 2020
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "1032202200@pfur.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alexandra Romanova is a student of applied mathematics at the RUDN University. Her research interests include simulation, probability theory, mathematical statistics, financial mathematics, analytics.
+She is a member of the research group, which trying to solve applied tasks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
