@@ -44,7 +44,7 @@ social:
   link: https://www.coursera.org/user/c6fb5ec7207f34bc9c0fe870a1879ff2
 - icon: telegram 
   icon_pack: fab
-  link: t.me/sandra_6898
+  link: https://t.me/sandra_68988
 - icon: github
   icon_pack: fab
   link: https://github.com/AlexandraRomanovaM
