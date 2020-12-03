@@ -35,16 +35,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '/#contact'  # For a direct email link, use "mailto:1032202200@pfur.ru".
+- icon: instagram
+  icon_pack: fab 
+  link: https://instagram.com/sandra_8823?igshid=ll5y1g7gueb9
+- icon: coursera
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.coursera.org/user/c6fb5ec7207f34bc9c0fe870a1879ff2
+- icon: telegram 
+  icon_pack: fab
+  link: t.me/sandra_6898
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AlexandraRomanovaM
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=EsCT7PIAAAAJ&gmla=AJsN-F430WEJsrF37_LvDxaiAUFU6z8QY9ffySdtwz8VTfsvvKjQLVqBeKS965i9tC1iQKeNN3vEpMcl-Sis3YOYCEqDBrGJkGIcde8T9LYDEZ1R
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
