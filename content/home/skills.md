@@ -38,6 +38,17 @@ subtitle = ""
   name = "Markdown"
   description = "80%"
   
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "70%"  
+  
+[[feature]]
+  icon = "eviews"
+  icon_pack = "fab"
+  name = "Eviews"
+  description = "90%"    
   
 # Uncomment to use emoji icons.
 # [[feature]]
