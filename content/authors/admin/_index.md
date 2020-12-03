@@ -33,9 +33,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:1032202200@pfur.ru".
 - icon: instagram
   icon_pack: fab 
   link: https://instagram.com/sandra_8823?igshid=ll5y1g7gueb9
