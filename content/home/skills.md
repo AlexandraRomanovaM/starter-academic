@@ -45,9 +45,9 @@ subtitle = ""
   description = "70%"  
   
 [[feature]]
-  icon = "eviews"
-  icon_pack = "fab"
-  name = "Eviews"
+  icon = "database"
+  icon_pack = "fas"
+  name = "1C"
   description = "90%"    
   
 # Uncomment to use emoji icons.
