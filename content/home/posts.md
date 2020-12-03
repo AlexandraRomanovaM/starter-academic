@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "World Computer Graphics Day"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+The World Computer Graphics Day celebrates 3D technology every December 3. The poster congratulates all graphics professionals with constant expansion of their creative abilities and all the viewers with neverending enrichment of the visual world around them.
+https://www.artlebedev.com/als/3-december-2014/computer-graphics-day-2014-poster.jpg
