@@ -67,4 +67,4 @@ subtitle = "World Computer Graphics Day"
  css_class = ""
 +++
 The World Computer Graphics Day celebrates 3D technology every December 3. The poster congratulates all graphics professionals with constant expansion of their creative abilities and all the viewers with neverending enrichment of the visual world around them.
-https://www.artlebedev.com/als/3-december-2014/computer-graphics-day-2014-poster.jpg
+![](https://www.artlebedev.com/als/3-december-2014/computer-graphics-day-2014-poster.jpg)
